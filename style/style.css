@@ -49,7 +49,7 @@ body {
 }
 .body-card .info-card .stats-card .stat span[data-number="1"] {
   font-weight: bold;
-  font-size: 30px;
+  font-size: 30px !important;
   color: #FFFFFF;
 }
 .body-card .info-card .stats-card .stat span {
