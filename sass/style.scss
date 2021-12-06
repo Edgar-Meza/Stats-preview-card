@@ -31,7 +31,7 @@ body {
     padding: 4%;
     font-size: 18px;
     h1 {
-      font-weight: 700;
+      font-weight: bold;
       span {
         color: $text-color-3;
       }
@@ -150,6 +150,19 @@ body {
     }
     .img-card {
       height: 30%!important;
+    }
+  }
+}
+@media (min-width: 1366px) {
+  .body-card {
+    width: 75%;
+    height: 55%;
+  }
+  .stats-card {
+    .stat {
+      span[data-number="1"] {
+        font-size: 30px;
+      }
     }
   }
 }

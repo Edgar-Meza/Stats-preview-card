@@ -28,7 +28,7 @@ body {
   font-size: 18px;
 }
 .body-card .info-card h1 {
-  font-weight: 700;
+  font-weight: bold;
 }
 .body-card .info-card h1 span {
   color: #aa5cdb;
@@ -145,6 +145,16 @@ body {
   }
   .body-card .img-card {
     height: 30% !important;
+  }
+}
+@media (min-width: 1366px) {
+  .body-card {
+    width: 75%;
+    height: 55%;
+  }
+
+  .stats-card .stat span[data-number="1"] {
+    font-size: 30px;
   }
 }
 .attribution {
