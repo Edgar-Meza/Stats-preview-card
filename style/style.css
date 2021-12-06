@@ -109,7 +109,7 @@ body {
 }
 @media (max-width: 375px) {
   .body-card {
-    width: 74%;
+    width: 85%;
   }
   .body-card .info-card {
     height: 70% !important;
@@ -146,7 +146,11 @@ body {
 }
 .attribution {
   font-size: 11px;
+  bottom: 0px;
+  position: absolute;
+  width: 100%;
   text-align: center;
+  color: #FFF;
 }
 .attribution a {
   color: #3e52a3;

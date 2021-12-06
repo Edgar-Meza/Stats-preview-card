@@ -115,7 +115,7 @@ body {
 }
 @media (max-width: 375px) {
   .body-card {
-    width: 74%;
+    width: 85%;
     .info-card {
       height: 70%!important;
       text-align: center;
@@ -153,7 +153,11 @@ body {
 // footer
 .attribution {
   font-size: 11px;
+  bottom: 0px;
+  position: absolute;
+  width: 100%;
   text-align: center;
+  color: #FFF;
   a {
     color: hsl(228, 45%, 44%);
   }
