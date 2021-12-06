@@ -101,7 +101,10 @@ body {
   .body-card .img-card {
     width: 100%;
     height: 50%;
-    border-radius: 10px;
+    border-radius: 10px 10px 0px 0px;
+  }
+  .body-card .img-card .capa-header {
+    border-radius: 10px 10px 0px 0px;
   }
   .body-card .stats-card {
     margin-top: 5% !important;
