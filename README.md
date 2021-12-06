@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://edgar-meza.github.io/Stats-preview-card/)
+- Solution URL: [Solución](https://edgar-meza.github.io/Stats-preview-card/)
 
 ## My process
 
@@ -47,5 +47,5 @@ I would like to work with the CSS framework tailwind with which I have not worke
 
 ## Author
 
-- Website - Edgar-Meza
+- Author - Edgar-Meza
 - Frontend Mentor - [@Edgar-Meza](https://www.frontendmentor.io/profile/Edgar-Meza)
