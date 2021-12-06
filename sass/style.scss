@@ -114,7 +114,41 @@ body {
   }
 }
 @media (max-width: 375px) {
-  
+  .body-card {
+    width: 74%;
+    .info-card {
+      height: 70%!important;
+      text-align: center;
+      padding: 0%;
+      h1 {
+        font-size: 22px;
+        padding-left: 15%;
+        padding-right: 15%;
+      }
+      p {
+        font-size: 12px!important;
+        padding-right: 30px!important;
+        padding-left: 30px!important;
+      }
+      .stats-card {
+        display: block!important;
+        .stat {
+          margin-right: auto;
+          margin-left: auto;
+          margin-top: 20px;
+          span[data-number="1"] {
+            font-size: 18px;
+          }
+          span {
+            font-size: 10px;
+          }
+        }
+      }
+    }
+    .img-card {
+      height: 30%!important;
+    }
+  }
 }
 // footer
 .attribution {
