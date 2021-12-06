@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solución](https://edgar-meza.github.io/Stats-preview-card/)
+- Solution URL: [Solution](https://edgar-meza.github.io/Stats-preview-card/)
 
 ## My process
 
